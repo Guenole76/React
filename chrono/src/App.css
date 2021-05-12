@@ -1,0 +1,19 @@
+button {
+    background-color: #008080; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 32px;
+  }
+
+h1 {
+    font-size: 64px;
+    color: #008080;
+}
+h3 {
+    font-size: 42px;
+    color: #008080;
+}
